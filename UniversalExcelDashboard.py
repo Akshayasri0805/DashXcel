@@ -96,7 +96,6 @@ st.markdown(
     """
     <div style='text-align: center; font-size: 14px; color: gray;'>
         Made with ❤️ using Streamlit | DashXcel © 2025<br>
-        Developed by [A SRI SAI CHARAN]
     </div>
     """,
     unsafe_allow_html=True
