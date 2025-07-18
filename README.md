@@ -24,7 +24,7 @@ Designed for **analysts, managers, and professionals**, it allows you to visuali
 ## 🛠 Installation  
 
 ```bash
-git clone https://github.com/your-username/dashxcel.git
+git clone https://github.com/Akshayasri0805/DashXcel.git
 cd dashxcel
 pip install -r requirements.txt
 streamlit run app.py
